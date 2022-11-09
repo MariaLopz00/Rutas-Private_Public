@@ -1,0 +1,28 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+#formLogin{
+  margin: 40px;
+  width: 400px;
+}
+
+#nav{
+  background-color:black ;
+}
+
+#boton{
+  margin-top: 15px;
+}
+
+#card1{
+  background-color:pink ;
+}
+#card2{
+  background-color:yellow ;
+}
+#card3{
+  background-color:greenyellow ;
+}
